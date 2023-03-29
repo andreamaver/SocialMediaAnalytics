@@ -51,7 +51,7 @@ In the [Data](https://github.com/andreamaver/SocialMediaAnalytics/tree/main/Data
 
   
 
-* [LinkedIn](https://www.linkedin.com/in/andrea-maver-b19047259/)
+* [LinkedIn](https://www.linkedin.com/in/andrea-maver/)
 
   
 
